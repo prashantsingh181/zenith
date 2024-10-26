@@ -2,11 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* html, body, #root {
-  height: 100vh;
-  overflow: auto;
-} */
-
 .primary-meditation-btn {
   @apply bg-primaryBackground text-primaryText px-4 py-2 text-base md:text-xl font-semibold font-primary rounded shadow cursor-pointer;
 }

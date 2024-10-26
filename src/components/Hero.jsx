@@ -5,7 +5,7 @@ import { useTranslate } from "@tolgee/react";
 function Hero() {
   const { t } = useTranslate(true);
   return (
-    <section className="bg-secondaryBackground h-[calc(100vh_-_theme(height.header))]">
+    <section className="bg-secondaryBackground h-[calc(100dvh_-_theme(height.header))]">
       <div className="container mx-auto flex-grow flex flex-col items-center pb-6 h-full">
         <div className="flex-grow">
           <img

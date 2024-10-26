@@ -7,7 +7,7 @@ import { useTranslate } from "@tolgee/react";
 function Benefits() {
   const { t } = useTranslate();
   return (
-    <div className="h-[calc(100vh_-_theme(height.header))] bg-primaryBackground p-4">
+    <div className="h-[calc(100dvh_-_theme(height.header))] bg-primaryBackground p-4">
       <div className="container mx-auto py-12 flex flex-col gap-6 justify-around h-full">
         <div>
           <h2 className="text-xl md:text-4xl font-bold text-center mb-8 font-heading text-primaryText">

@@ -6,7 +6,7 @@ function Layout() {
   return (
     <div className="bg-primaryBackground relative overflow-auto">
       <Header />
-      <main className="pt-[72px] h-screen overflow-auto">
+      <main className="pt-[72px] h-dvh overflow-auto">
         <Outlet />
       </main>
     </div>

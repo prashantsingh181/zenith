@@ -21,10 +21,10 @@ To get started with Zenith, follow these steps:
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/tolgee/tolgee-platform.git
-   cd demos/meditation-app
-   ```
+```bash
+git clone https://github.com/tolgee/tolgee-platform.git
+cd demos/meditation-app
+```
 
 2. **Install dependencies**:
 
